@@ -1,0 +1,177 @@
+  {
+      "restaurants": [
+        {
+          "id": 1,
+          "name": "Sushi Paradis",
+          "address": "456 Avenue des Sushis",
+          "specialty": "Japonais kitchen",
+          "rating": 4.7,
+          "logo": "./img/logo1.jpg",
+          "hours": {
+            "Monday": "10:00 AM - 8:00 PM",
+            "Tuesday": "10:00 AM - 8:00 PM",
+            "Wednesday": "10:00 AM - 8:00 PM",
+            "Thursday": "10:00 AM - 8:00 PM",
+            "Friday": "10:00 AM - 10:00 PM",
+            "Saturday": "12:00 PM - 10:00 PM",
+            "Sunday": "12:00 PM - 8:00 PM"
+          },
+          "phone": "+1234567890",
+          "website": "http://www.restaurant.com"
+        },
+        {
+          "id": 2,
+          "name": "La Pizzeria Bella",
+          "address": "789 Place de la Pizza",
+          "specialty": "Italienne kitchen",
+          "rating": 4.5,
+          "logo": "./img/logo1.jpg",
+          "hours": {
+            "Monday": "9:00 AM - 7:00 PM",
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 7:00 PM",
+            "Thursday": "Closed",
+            "Friday": "9:00 AM - 9:00 PM",
+            "Saturday": "11:00 AM - 9:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+          },
+          "phone": "+9876543210",
+          "website": "http://www.restaurant-b.com"
+        },
+        {
+          "id": 3,
+          "name": "Taco Haven",
+          "address": "201 Place Taco",
+          "specialty": "Mexican kitchen",
+          "rating": 4.2,
+          "logo": "./img/logo1.jpg",
+          "hours": {
+            "Monday": "9:00 AM - 7:00 PM",
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 7:00 PM",
+            "Thursday": "Closed",
+            "Friday": "9:00 AM - 9:00 PM",
+            "Saturday": "11:00 AM - 9:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+          },
+          "phone": "+9814542436",
+          "website": "http://www.restaurant-b.com"
+        },
+        {
+          "id": 4,
+          "name": "Noodle World",
+          "address": "812 Place Noodle",
+          "specialty": "Asian kitchen",
+          "rating": 3.5,
+          "logo": "./img/logo1.jpg",
+          "hours": {
+            "Monday": "9:00 AM - 7:00 PM",
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 7:00 PM",
+            "Thursday": "Closed",
+            "Friday": "9:00 AM - 9:00 PM",
+            "Saturday": "11:00 AM - 9:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+          },
+          "phone": "+9487542328",
+          "website": "http://www.restaurant-b.com"
+        },
+        {
+          "id": 5,
+          "name": "Ramen House",
+          "address": "498 House",
+          "specialty": "Japonais kitchen",
+          "rating": 3.9,
+          "logo": "./img/logo1.jpg",
+          "hours": {
+            "Monday": "9:00 AM - 7:00 PM",
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 7:00 PM",
+            "Thursday": "Closed",
+            "Friday": "9:00 AM - 9:00 PM",
+            "Saturday": "11:00 AM - 9:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+          },
+          "phone": "+9487542328",
+          "website": "http://www.restaurant-b.com"
+        },
+        {
+          "id": 6,
+          "name": "Saveurs du Maroc",
+          "address": "111 Saveurs",
+          "specialty": "Marocaine kitchen",
+          "rating": 4.9,
+          "logo": "./img/logo1.jpg",
+          "hours": {
+            "Monday": "9:00 AM - 7:00 PM",
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 7:00 PM",
+            "Thursday": "Closed",
+            "Friday": "9:00 AM - 9:00 PM",
+            "Saturday": "11:00 AM - 9:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+          },
+          "phone": "+2127542487",
+          "website": "http://www.restaurant-b.com"
+        },
+        {
+          "id": 7,
+          "name": "Marrakech Delights",
+          "address": "111 Saveurs",
+          "specialty": "Marocaine kitchen",
+          "rating": 4.9,
+          "logo": "./img/logo1.jpg",
+          "hours": {
+            "Monday": "9:00 AM - 7:00 PM",
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 7:00 PM",
+            "Thursday": "Closed",
+            "Friday": "9:00 AM - 9:00 PM",
+            "Saturday": "11:00 AM - 9:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+          },
+          "phone": "+2127529874",
+          "website": "http://www.restaurant-b.com"
+        },
+        {
+          "id": 8,
+          "name": "Seoul Spice Haven",
+          "address": "678 Kimchi Lane",
+          "specialty": "Coreenne kitchen",
+          "rating": 2,
+          "logo": "./img/logo1.jpg",
+          "hours": {
+            "Monday": "9:00 AM - 7:00 PM",
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 7:00 PM",
+            "Thursday": "Closed",
+            "Friday": "9:00 AM - 9:00 PM",
+            "Saturday": "11:00 AM - 9:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+          },
+          "phone": "+2127514789",
+          "website": "http://www.restaurant-b.com"
+        },
+        {
+          "id": 9,
+          "name": "Le Delice Français",
+          "address": "123 Rue de la Gastronomie",
+          "specialty": "French kitchen",
+          "rating": 1,
+          "logo": "./img/logo1.jpg",
+          "hours": {
+            "Monday": "9:00 AM - 7:00 PM",
+            "Tuesday": "9:00 AM - 7:00 PM",
+            "Wednesday": "9:00 AM - 7:00 PM",
+            "Thursday": "Closed",
+            "Friday": "9:00 AM - 9:00 PM",
+            "Saturday": "11:00 AM - 9:00 PM",
+            "Sunday": "11:00 AM - 7:00 PM"
+          },
+          "phone": "+2127514789",
+          "website": "http://www.restaurant-b.com"
+        }
+
+      ]
+    }
+    
